@@ -1,0 +1,3 @@
+Voor mijn laatste opdracht wil ik een database maken voor mijn school waarin zowel vakdocenten als leerlingen keuzes kunnen aanbieden/ maken.
+Op school werken wij met flexuren wat inhoudt dat vakdocenten voor specifieke uren (5 uren per week) aanbod geven en leerlingen keuzes maken. Elke leerling kan een keuze maken ( per uur), er zijn 3 smaken ertussen die leerlingen mogen kiezen: zelfstudie-uur/ remediërend-uur of verdiepend-uur.
+In de database is zowel het aanbod van de vakdocenten als de keuze van de leerlingen te zien.

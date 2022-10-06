@@ -1,0 +1,215 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+h3 {
+    margin-right: 50px;
+
+}
+
+h3:hover {
+    color: pink;
+
+}
+
+.sign {
+    color: pink;
+    border: 1px solid pink;
+    padding: 5px;
+}
+
+.sign:hover {
+    color: black;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+.alpha {
+    color: orange;
+}
+
+input {
+    width: 30%;
+    border: 4px solid orange;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.een {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.eeneen h6 {
+    display: inline;
+    padding-left: 10px;
+
+}
+
+.eentwee h6 {
+    display: inline;
+    padding-left: 20px;
+}
+
+.par {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.lijst {
+    text-align: center;
+}
+
+.lijst a {
+    text-decoration: none;
+    color: black;
+}
+
+.lijst h4 {
+    display: inline;
+    margin-right: 50px;
+    margin-bottom: 50px;
+
+}
+
+.lijst1 {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.lijst1 h4 {
+    display: inline;
+    border: 0.5px solid grey;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.lijst1 h4:hover {
+    color: orange;
+}
+
+.par1 {
+    margin-top: 50px;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    border: 1px solid grey;
+
+}
+
+.par1 a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.par1 a:hover {
+    color: orange;
+}
+
+.lijst2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.lijst2 a {
+    padding-left: 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer a {
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+
+}
+
+.footer a:hover {
+    color: orange;
+}
+
+.footer1 {
+    display: flex;
+    justify-content: center;
+}
+
+.footer1 a {
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+}
+
+.footer1 a:hover {
+    color: orange;
+}
+
+.footer2 {
+    display: flex;
+    justify-content: center;
+}
+
+.footer2 a {
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+}
+
+.footer2 a:hover {
+    color: orange;
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+
+}
+
+.end a {
+    padding-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.end a:hover {
+    color: orange;
+}
+
+img {
+    background-color: rgb(193, 114, 10);
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    margin-right: 10px;
+    margin-top: 30px;
+
+}
+
+.inp {
+    text-align: center;
+}
+
+div:hover {
+    color: red;
+}
